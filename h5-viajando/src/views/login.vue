@@ -194,6 +194,8 @@ const onClose = () => {
                 color: #FFFFFF;
             }
 
+
+
             :deep(.tel-show .van-field__control) {
                 background: transparent;
                 color: #FFFFFF;
@@ -289,7 +291,7 @@ const onClose = () => {
                 width: 19px;
                 height: 19px;
             }
-            
+
             :deep(.apple .van-field__left-icon img){
                 width: 24px;
                 height: 24px;
